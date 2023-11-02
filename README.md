@@ -34,9 +34,6 @@ Your feedback is invaluable! If you have design suggestions, feature requests, o
 
 **Note**: As this is a static layout, it's a great starting point for frontend developers looking to bring their designs to life.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
