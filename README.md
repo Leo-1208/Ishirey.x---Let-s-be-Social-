@@ -1,8 +1,7 @@
 # Ishirey.X - Let's be Social
 
-Welcome to Ishirey.X, an immersive platform tailored for creators and anime enthusiasts. Dive into vivid stories, connect with your favorite characters, and immerse yourself in a visually appealing layout.
+Welcome to Ishirey.X, an immersive platform tailored for creators and anime enthusiasts. Dive into vivid stories, connect with your favorite characters, and immerse yourself in a visually appealing layout.Experience the visual layout of Ishirey.X live at: [https://leo-1208.github.io/Ishirey.x---Let-s-be-Social-/](https://leo-1208.github.io/Ishirey.x---Let-s-be-Social-/)
 
-![Ishirey.X Interface]
 
 ## Overview
 
