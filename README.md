@@ -2,7 +2,7 @@
 
 Welcome to Ishirey.X, an immersive platform tailored for creators and anime enthusiasts. Dive into vivid stories, connect with your favorite characters, and immerse yourself in a visually appealing layout.
 
-![Ishirey.X Interface](https://leo-1208.github.io/Ishirey.x---Let-s-be-Social-/screenshot.png)
+![Ishirey.X Interface]
 
 ## Overview
 
